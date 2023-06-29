@@ -7,7 +7,7 @@ import android.os.Bundle;
 import android.view.View;
 
 import cl.jpvs.modulo4ejercicio12.databinding.ActivityMainBinding;
-
+// modulo 4 trabajo 12 jpvargas
 public class MainActivity extends AppCompatActivity {
     private ActivityMainBinding binding;   //paso1  el nombre depende del nombre de la clase
     @Override
